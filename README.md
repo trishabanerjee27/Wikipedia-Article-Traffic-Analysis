@@ -13,8 +13,8 @@ The data for this project was acquired from the following API:
 ## Folder Structure
 The project files are organized in the following structure:
 
-DATA-512-HOMEWORK_1/
 ```
+DATA-512-HOMEWORK_1
 │
 ├── data/
 │   ├── rare-disease_cleaned.AUG.2024.csv

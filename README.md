@@ -1,7 +1,7 @@
-# DATA-512 Homework 1: Wikipedia Article Traffic Analysis
+# Wikipedia Article Traffic Analysis
 
 ## Project Goal
-The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a set of pages from English Wikipedia related to rare diseases. The data spans from July 1, 2015, to September 30, 2024, and is sourced from the Wikimedia Pageviews API. This analysis is part of a homework assignment for the course DATA-512: Professionalism & Reproducibility.
+The goal of this project is to construct, analyze, and publish a dataset of monthly article traffic for a set of pages from English Wikipedia related to rare diseases. The data spans from July 1, 2015, to September 30, 2024, and is sourced from the Wikimedia Pageviews API.
 
 ## Source Data License and Terms of Use
 The data used in this project is sourced from the Wikimedia Foundation's public API. The dataset adheres to Wikimedia's [Terms of Use](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use), and it is licensed under the Creative Commons Attribution-ShareAlike 4.0 License ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)). According to the license, the data can be shared and adapted, provided appropriate attribution is given, and any derivative work is distributed under the same license.
@@ -14,7 +14,7 @@ The data for this project was acquired from the following API:
 The project files are organized in the following structure:
 
 ```
-DATA-512-HOMEWORK_1
+Wikipedia-Article-Traffic-Analysis
 │
 ├── data/
 │   ├── rare-disease_cleaned.AUG.2024.csv
